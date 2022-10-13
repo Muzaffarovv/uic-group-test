@@ -1,0 +1,34 @@
+Xodimlar bo'limiga xodimlar ro'yxatini saqlash uchun ilova kerak
+
+Ariza 5 sahifadan iborat bo'lishi kerak:
+
+1. Barcha xodimlarning ro'yxati
+2. Bitta xodimni ko'ring
+3. Bosh sahifa (Boshqarish paneli)
+4. Sahifani qo'shish
+5. Sahifani tahrirlash
+
+Har bir xodim uchun siz quyidagi ma'lumotlarni saqlashingiz kerak:
+
+- To'liq ism (string)
+- Bo'lim (ochiladigan bo'lishi kerak) Jami 3 ta bo'lim: buxgalteriya hisobi, IT, marketing
+- Lavozim
+(tor)
+- Jins (radio tugmasidan foydalaning)
+- Tug'ilgan sana (sana)
+
+1. Barcha xodimlarning ro'yxati sahifasi
+- sahifalangan barcha xodimlarning ro'yxati
+- bo'lim va/yoki jins bo'yicha filtrlash
+
+2. Bitta xodimning sahifa ko'rinishi
+- barcha xodimlar ma'lumotlari
+- Tahrirlovchi xodim (barcha maydonlar)
+- Xodimni o'chirish
+
+3. Bosh sahifa (Boshqarish paneli)
+- barcha xodimlar soni
+- Erkaklar soni
+- Ayollar soni
+- Har bir bo'limdagi xodimlar soni
+- kompaniyadagi xodimning o'rtacha yoshi
